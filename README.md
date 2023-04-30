@@ -1,7 +1,5 @@
 # Sentiment_Analysis
 
-## H2
+## DataSet Detail
 
-##### you can download the dataset from the given link:
-
-##### [DataSet Link:](https://archive.ics.uci.edu/ml/datasets/Roman+Urdu+Data+Set)
+##### you can download the dataset from the link: [Roman Urdu Data Set](https://archive.ics.uci.edu/ml/datasets/Roman+Urdu+Data+Set)
